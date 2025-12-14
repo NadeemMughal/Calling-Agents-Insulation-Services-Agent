@@ -27,7 +27,7 @@ This no-code voice agent is designed for home insulation and rendering services 
 - Caller requests insulation service → Agent qualifies → Books survey → Updates GHL contact → Sends confirmation.
 
 ## Demo
-Refer to the attached `project_demo.pdf` for screenshots of:
+Refer to the attached `Insulation Services Voice Agent.pdf` of:
 - Retell AI agent configuration
 - n8n workflow nodes
 - Go High Level contact and calendar updates
